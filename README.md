@@ -47,3 +47,7 @@ Navigate to the chosen Ip on your laptop and toggle the led.
 
 ### Helpful materials 
 ![Pic of pins](img/gpio-numbers-pi2.png)
+
+### Authors
+* **Johanna** **Saar**
+* Karell Veskimeister
